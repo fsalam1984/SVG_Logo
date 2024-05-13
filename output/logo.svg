@@ -1,9 +1,9 @@
 
     <svg width="1000" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
 
-    <polygon points="300,50 200,400 100,50" style="fill:Yellow;stroke:green;stroke-width:3" />
+    <polygon points="300,50 200,400 100,50" style="fill:Red;stroke:green;stroke-width:3" />
 
-    <text x="200" y="175" class="small" text-anchor="middle" fill="Blue">NYC</text>
+    <text x="200" y="175" class="small" text-anchor="middle" fill="Yellow">NYC</text>
 
     </svg>
 
