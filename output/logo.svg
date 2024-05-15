@@ -1,10 +1,9 @@
+ 
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200">
 
-    <svg width="1000" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="150" cy="100" r="80" fill="Red"/>
 
-    <polygon points="300,50 200,400 100,50" style="fill:Red;stroke:green;stroke-width:3" />
+        <text x="150" y="125" font-size="60" text-anchor="middle" fill="White">sss</text>
 
-    <text x="200" y="175" class="small" text-anchor="middle" fill="Yellow">NYC</text>
-
-    </svg>
-
-    
+        </svg>
+            
